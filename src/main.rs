@@ -37,7 +37,7 @@ fn main() {
         }
     }
     
-    println!("{}, would you join me for my wedding as a groomsman?", name.trim());
+    println!("{}, would you join me for my wedding as my groomsman?", name.trim());
     println!("Please email with your response:  nrholmstedt@gmail.com");
     println!("Done?  Enter anything.");
     loop {
